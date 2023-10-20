@@ -5,6 +5,8 @@ username, password, first name, last name, date of birth (DOB), and role (Admin,
 
 create an API which contains the login and signup information for this user
 
-Developer Name: Muhammad Moazam
+## Developer Name:
+               Muhammad Moazam
 
-Course Name: Software Engineering
+## Course Name: 
+            Software Engineering
